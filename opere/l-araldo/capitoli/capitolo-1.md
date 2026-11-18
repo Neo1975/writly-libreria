@@ -17,7 +17,7 @@ Io, qui ai suoi piedi, sono in ginocchio che supplico pietà per fermarlo ancora
 
 "Io sono il giudice. Prima accusa: hai infranto il sigillo."
 
-Certo il sigillo, lo ricordo bene, lavoravo ancora come contadino presso i Meist. Al tempo queste mani accarezzavano i fiori e l'erba nei prati. Per salvare la vita dei miei figli da una malattia incurabile, a detta dello speziale, corsi disperato nel bosco e lì caddì in una buca. Mi ritrovai sorretto dalle radici di un tasso. Suoi palmi delle mie mani si formò un sicillo e dalle fronte dell'albero arrivò una voce.
+Certo il sigillo, lo ricordo bene, lavoravo ancora come contadino presso i Meist. Al tempo queste mani accarezzavano i fiori e l'erba nei prati. Per salvare la vita dei miei figli da una malattia incurabile, a detta dello speziale, corsi disperato nel bosco e lì caddi in una buca. Mi ritrovai sorretto dalle radici di un tasso. Suoi palmi delle mie mani si formò un sigillo e dalle fronte dell'albero arrivò una voce.
 
 "Ecco, se vorrai, il mio dono. Saprai curare gli altri, ma giura che userai quello che ti insegnerò senza piegarlo a tuo vantaggio."
 
@@ -49,7 +49,7 @@ Ed ecco che le mani tornano a bruciarmi come allora, eppure volevo solo che gli 
 
 "Terza Accusa: Tradimento. Hai ignorato e beffeggiato i nostri avvisi, così un giorno la terra tremò".
 
-Ricordo bene quel giorno, la mia casa fu spezzata in due; non la casa da contatino, oramai vivevo in un bel palazzo. {{h:fdafd23a:viola}}Ebbi una gran paura{{/h}} per i miei figli, la terra si rivoltò contro di me. Capii subito cosa significava, ma solo per poco tempo. Il maggiore dei mie figli adorava una pecorella, ma il minore ne era invidioso e ne voleva una identica per lui. Così feci. Da quel giorno giocare con i tasti della natura fu facile, finché non venne lui. Bardarock si presentò da me infuriato, deciso a distruggere tutto. Riuscii a calmarlo quella volta solo promettendo che avrei fatto un passo indietro. Avevo superato il limite anche se solo per viziare i mie figli. Quello era il suo ultimatum non potevo più infrangerlo.
+Ricordo bene quel giorno, la mia casa fu spezzata in due; non la casa da contadino, oramai vivevo in un bel palazzo. {{h:fdafd23a:viola}}Ebbi una gran paura{{/h}} per i miei figli, la terra si rivoltò contro di me. Capii subito cosa significava, ma solo per poco tempo. Il maggiore dei mie figli adorava una pecorella, ma il minore ne era invidioso e ne voleva una identica per lui. Così feci. Da quel giorno giocare con i tasti della natura fu facile, finché non venne lui. Bardarock si presentò da me infuriato, deciso a distruggere tutto. Riuscii a calmarlo quella volta solo promettendo che avrei fatto un passo indietro. Avevo superato il limite anche se solo per viziare i mie figli. Quello era il suo ultimatum non potevo più infrangerlo.
 
 Non passò molto tempo che successe ancora. Una vita felice era troppo poco per i miei figli così studiai rimedi per raddoppiare la loro vita.
 
@@ -57,11 +57,9 @@ Non passò molto tempo che successe ancora. Una vita felice era troppo poco per 
 
 Scrivi qui il tuo capitolo.
 
-  
 
 
 ---
 
 Scrivi qui il tuo capitolo.
 
-  
