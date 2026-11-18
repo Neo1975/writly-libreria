@@ -1,0 +1,38 @@
+nome: Struttura - racconto l'araldo
+descrizione: "Un solo gruppo vuoto: aggiungi le tue sezioni."
+origine: Libero
+misura: battute
+atti:
+  - id: parte-1
+    nome: Introduzione
+    sezioni:
+      - id: 5s1z2j2r2c
+        nome: Nuova sezione
+        peso: 0
+        battute: 1000
+  - id: 3w191g5v2u
+    nome: Parte centrale
+    sezioni:
+      - id: 2t1q440g65
+        nome: Flashback 1
+        peso: 0
+        battute: 1000
+      - id: 6n6b4p0w1c
+        nome: Flashback 2
+        peso: 0
+        battute: 1000
+      - id: 312g215y3u
+        nome: Flashback 3
+        peso: 0
+        battute: 1000
+  - id: 6i2s0f072o
+    nome: FInale
+    sezioni:
+      - id: 166x4j0w34
+        nome: Nuova sezione
+        peso: 0
+        battute: 1700
+      - id: 6z256z4g3h
+        nome: Nuova sezione
+        peso: 0
+        battute: 1500
