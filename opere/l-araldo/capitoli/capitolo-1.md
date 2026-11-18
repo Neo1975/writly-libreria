@@ -25,7 +25,7 @@ Non potevo volere di più quel giorno.
 
 "Lo giuro".
 
-Quel sigillo si illuminò nuovamente e poi disse.
+Quel sigillo si illuminò ancora, poi disse.
 
 "Cogli le mie bacche, e preparale con attenzione".
 
