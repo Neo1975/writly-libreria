@@ -1,6 +1,6 @@
 ---
 id: 534i3n120q
-stato: bozza
+stato: in-stesura
 ---
 
 Ho strisciato fin qui come un verme che si nutre e defeca questa terra. Ho le ginocchia e i palmi impiastricciati da sudicio fango misto a sangue e linfa. sono ai piedi di un'orribile creatura e riecheggia in lontananza una voce tronfia che vomita parole, odio e rimpianto. Tutto il resto è sfocato, vedo solo i palmi delle mie mani.
