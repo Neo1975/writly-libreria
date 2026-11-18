@@ -1,0 +1,2 @@
+# Parole accettate dal controllo ortografico di Writly, una per riga.
+
