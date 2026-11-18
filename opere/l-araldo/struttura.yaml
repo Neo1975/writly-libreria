@@ -40,7 +40,12 @@ scene:
   - id: 0f3h0l6j4z
     titolo: Intro
     sezione: 5s1z2j2r2c
-    stato: idea
+    capitolo: capitolo-1.md
+    stato: in-stesura
+    pov: 3k4i1d710q
+    personaggi:
+      - 3k4i1d710q
+      - 565o2e4g4k
   - id: 3m1x6r2s5g
     titolo: Flashback 1
     sezione: 2t1q440g65
