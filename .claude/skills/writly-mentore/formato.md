@@ -4,7 +4,7 @@
 
 ```
 writly.yaml                          titolo, tipo (racconto | romanzo | saga), lingua, opere in ordine di lettura
-opere/<opera>/opera.yaml             titolo dell'opera, obiettivoParole, capitoli in ordine (file + titolo)
+opere/<opera>/opera.yaml             titolo, tema, premessa, obiettivoParole, capitoli in ordine (file + titolo)
 opere/<opera>/capitoli/<file>.md     front-matter (id, stato) + testo in Markdown
 opere/<opera>/struttura.yaml         modello narrativo dell'opera (atti → sezioni) e scene
 opere/<opera>/commenti/<file>.yaml   commenti al capitolo <file>.md   ← ci scrivi tu
@@ -18,6 +18,11 @@ glossario.yaml                       termini inventati del progetto
 appunti/<slug>.md                    appunti dell'autore                 ← ci scrivi tu (tipo: revisione)
 dizionario.txt                       parole accettate dal controllo ortografico
 ```
+
+Il **tema** (di cosa parla davvero la storia, sotto la trama) e la
+**premessa** (l'idea da cui parte: chi, cosa vuole, cosa glielo impedisce,
+cosa rischia) sono in `opera.yaml`, facoltativi: sono la bussola
+dell'autore, usali come metro in ogni revisione.
 
 Il **titolo di un capitolo** sta solo in `opera.yaml`; nel file del capitolo il
 front-matter ha `id` e `stato` (bozza, in-stesura, scritto, revisionato).

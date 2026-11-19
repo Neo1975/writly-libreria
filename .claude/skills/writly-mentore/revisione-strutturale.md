@@ -25,6 +25,14 @@ Guarda il libro dall'alto: architettura, scene, archi, coerenza. Il risultato
 
 ## 2. Domande da farti
 
+**Tema e premessa**
+- La storia mantiene la premessa: il desiderio del protagonista, l'ostacolo
+  e la posta sono quelli dichiarati, e arrivano a una risposta?
+- Il tema è messo alla prova da più lati (personaggi che incarnano risposte
+  diverse) e il finale prende posizione, o resta solo enunciato?
+- Se mancano in `opera.yaml`, proponi all'autore una formulazione da
+  discutere (nell'appunto, non nel file dell'opera).
+
 **Architettura**
 - Ogni sezione del modello ha almeno una scena? Quali sono scoperte?
 - Le proporzioni reggono? Un atto che pesa il doppio del previsto, un climax

@@ -31,6 +31,12 @@ Per un personaggio: cosa vuole e cosa gli serve davvero (non è la stessa
 cosa)? Qual è la bugia in cui crede? Cosa non direbbe mai ad alta voce? Come
 reagisce quando ha paura? Cosa perde se cambia?
 
+Per tema e premessa (se in `opera.yaml` mancano o l'autore non ne è
+convinto): di cosa parla davvero questa storia, se togli la trama? Cosa
+vuole il protagonista e cosa rischia se non lo ottiene? Quale domanda vuoi
+lasciare al lettore? Le risposte, con le parole dell'autore, possono andare
+nell'appunto finale; l'autore le riporta lui nella scheda dell'opera.
+
 Per la trama: qual è la domanda che tiene il lettore fino alla fine? Cosa sa
 il lettore che i personaggi non sanno, e viceversa? Se togliessi questa
 scena, cosa crollerebbe?

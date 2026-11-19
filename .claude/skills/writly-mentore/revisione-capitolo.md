@@ -8,12 +8,14 @@
    chiedi quale opera, se non è chiaro.
 3. Leggi il capitolo intero prima di annotare qualcosa. Leggi anche la fine
    del capitolo precedente e l'inizio del successivo, per le transizioni.
-4. In `struttura.yaml` cerca le scene con `capitolo: <file>.md`: obiettivo,
+4. Rileggi `tema` e `premessa` in `opera.yaml`, se ci sono: ti dicono
+   cosa il capitolo deve servire.
+5. In `struttura.yaml` cerca le scene con `capitolo: <file>.md`: obiettivo,
    conflitto ed esito sono ciò che l'autore voleva ottenere. Nota la sezione
    del modello a cui appartengono (e la sua `guida`).
-5. Leggi le schede dei personaggi presenti (in particolare il POV), le voci
+6. Leggi le schede dei personaggi presenti (in particolare il POV), le voci
    del mondo citate, le regole che le riguardano e il glossario.
-6. Leggi i commenti già presenti: non ripetere osservazioni già fatte, e se
+7. Leggi i commenti già presenti: non ripetere osservazioni già fatte, e se
    l'autore ha risposto a un tuo commento precedente tienine conto.
 
 ## 2. Valuta, dal più importante al meno
@@ -37,6 +39,11 @@ il testo ha scelto:
   d'animo del narratore; segnala registro e lessico che non gli
   appartengono, e il narratore che sa troppo rispetto al momento in cui
   racconta.
+
+**Tema e premessa.** Il capitolo fa avanzare la premessa (il personaggio
+si avvicina o si allontana da ciò che vuole, la posta sale)? Mette alla prova
+il tema, anche di sbieco, o se ne dimentica? Segnalalo solo quando conta, con
+un commento sul capitolo intero.
 
 **Personaggi.** Agiscono e parlano secondo la scheda (valori, paure, modo di
 parlare, tic, comportamento sotto stress)? Se cambiano, il cambiamento è
