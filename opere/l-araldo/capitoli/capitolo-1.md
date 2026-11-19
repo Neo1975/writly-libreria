@@ -9,13 +9,13 @@ Ho strisciato fin qui come un verme che si nutre e defeca questa terra. Ho le gi
 
 La creatura con passo pensante disegna intorno a me un cerchio con i rami che gli escono dal tronco.
 
-La sua voce cavernosa fuoriesce da una cavità putrescente al centro del tronco scavata nel tempo dai funghi. Sento tutto il peso delle sue accuse attraverso i rami che come braccia sono puntate contro di me. Emette la sua sentenza.
+La sua voce cavernosa fuoriesce da una cavità putrescente al centro scavata nel tempo dai funghi. Sento tutto il peso delle sue accuse attraverso i rami che come braccia sono puntate contro di me. Emette la sua sentenza.
 
-Io, qui ai suoi piedi, sono in ginocchio che supplico pietà per fermarlo ancora una volta. L'odio sputato da quelle fauci me lo ritrovo sul volto mentre mi ripulisco e raccolgo le forze per questa ultima arringa.
+Io, qui ai suoi piedi, sono in ginocchio che supplico pietà per fermarlo ancora una volta. L'odio sputato da quelle fauci me lo ritrovo sul viso mentre mi ripulisco e raccolgo le forze per questa ultima arringa.
 
 ---
 
-"Io sono il giudice. Prima accusa: hai infranto il sigillo."
+"Io sono il giudice! Prima accusa: hai infranto il sigillo."
 
 Certo il sigillo, lo ricordo bene, lavoravo ancora come contadino presso i Meist. Al tempo queste mani accarezzavano i fiori e l'erba nei prati. Per salvare la vita dei miei figli da una malattia incurabile, a detta dello speziale, corsi disperato nel bosco e lì caddi in una buca. Mi ritrovai sorretto dalle radici di un tasso. Suoi palmi delle mie mani si formò un sigillo e dalle fronte dell'albero arrivò una voce.
 
@@ -23,7 +23,7 @@ Certo il sigillo, lo ricordo bene, lavoravo ancora come contadino presso i Meist
 
 Non potevo volere di più quel giorno.
 
-"Lo giuro".
+"Lo giuro!".
 
 Quel sigillo si illuminò ancora, poi disse.
 
