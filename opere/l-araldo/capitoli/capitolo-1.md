@@ -3,15 +3,15 @@ id: 534i3n120q
 stato: in-stesura
 ---
 
-Ho strisciato fin qui come un verme che si nutre e defeca questa terra. Ho le ginocchia e i palmi impiastricciati da sudicio fango misto a sangue e linfa. Sono ai piedi di un'orribile creatura e riecheggia in lontananza una voce tronfia che vomita parole, odio e rimpianto. Tutto il resto è sfocato, vedo solo i palmi delle mie mani.
+Ho strisciato fin qui come un verme che si nutre e defeca questa terra. Sono carponi con le ginocchia e i palmi insudiciati da un misto di fango e linfa. Mi trovo ai piedi di un'orribile creatura mentre riecheggia in lontananza la sua voce tronfia che vomita parole, odio e rimpianto. Tutto il resto è sfocato, vedo solo i palmi delle mie mani.
 
-Io, qui ai suoi piedi, sono in ginocchio che supplico per fermarlo ancora una volta. La sua ira sputata da quelle fauci me la ritrovo sul viso mentre mi ripulisco e raccolgo le forze per questa ultima arringa.
+Lo supplico, ancora una volta, di fermarsi e lui sputa la sua ira dalle fauci, me la ritrovo sul viso. Raccolgo le forze, mentre mi ripulisco, per questa ultima arringa.
 
 "Bardarok, basta! Abbi pietà."
 
 La creatura con passo pensante disegna intorno a me un cerchio con i rami che gli escono dal tronco.
 
-La sua voce cavernosa proviene da una cavità putrescente scavata nel tempo dai funghi. Sento tutto il peso delle suo biasimo attraverso i rami che come braccia sono puntate contro di me. Tuonò la sua requisitoria.
+La sua voce cavernosa proviene da una cavità putrescente scavata nel tempo dai funghi. Sento tutto il peso delle suo biasimo attraverso le frasche che come braccia sono puntate contro di me. Tuonò la sua requisitoria.
 
 ---
 
