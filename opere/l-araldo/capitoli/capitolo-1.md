@@ -39,11 +39,11 @@ Da allora fui l'alchimista.
 
 "Ho sempre usato ciò che mi insegnasti per aiutare gli altri."
 
-"Come osi mentire anche ora! Hai prosciugato la terra. Hai preso il controllo degli elementi per manipolare a tuo piacimento i prodotti della natura. Li hai poi venduti a tuo tornaconto."
+"Come osi mentire anche ora! Hai prosciugato la terra. Hai preso il controllo degli elementi per manipolare a tuo piacimento i miei fratelli. Li hai poi venduti a tuo tornaconto."
 
-Ed ecco che le mani tornano a bruciarmi come allora, eppure volevo solo che gli altri fossero felici. Volevo che i miei figli potessero mangiare fragole con la neve. Il sigillo che portavo me lo diceva chiaro: ardeva sempre più forte. Ho provato tutti gli unguenti, le fasciature e le lozioni che avevo appreso per nasconderlo a me stesso e agli altri.
+Ed ecco che le mani tornano a bruciarmi come allora, eppure volevo solo che gli altri fossero felici, che i miei figli potessero mangiare fragole con la neve. Il sigillo che portavo me lo diceva chiaro: ardeva sempre più forte. Ho provato tutti gli unguenti, le fasciature e le lozioni che avevo appreso per nasconderlo a me stesso e agli altri.
 
-"Il tuo risultato: figli della terra che marciscono. Campi ingrigiti ed esanimi oramai infruttiferi. Intrecci di figli incestuosi ottenuti mischiando piante animali e uomini. Ti abbiamo avvisato, ma siamo stati ignorati. Io sono uno dei tuoi figli, alchimista."
+"Il tuo risultato: figli della terra che marciscono. Campi ingrigiti ed esanimi oramai infruttiferi. Hai creato una stirpe incestuosa mischiando piante animali e uomini. Ti abbiamo avvisato, ma siamo stati ignorati. Io sono uno dei tuoi figli, alchimista."
 
 ---
 
