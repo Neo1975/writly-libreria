@@ -17,7 +17,7 @@ La sua voce cavernosa proviene da una cavità putrescente scavata nel tempo dai 
 
 "Io sono il giudice! Prima accusa: hai infranto il sigillo."
 
-Certo il sigillo, lo ricordo bene, lavoravo ancora come contadino presso i Meist. Al tempo queste mani accarezzavano i fiori e l'erba nei prati, ma un giorno i miei figli contrassero una malattia incurabile, a detta dello speziale. Disperato, tra le lacrime, corsi senza una meta fino a quando non fu tutto nero. Mi risvegliai qualche ora dopo ritrovandomi sorretto dalle radici di un tasso nel fondo di una oscura buca nel bosco. Una voce dalle fronde dell'albero mi parlò.
+Certo il sigillo, lo ricordo bene, lavoravo ancora come contadino presso i Meist. Al tempo queste mani accarezzavano i fiori e l'erba nei prati, ma un giorno i miei figli contrassero una malattia incurabile, secondo lo speziale. Disperato, tra le lacrime, corsi senza una meta l'oscurità non mi avvolse. Mi risvegliai sorretto dalle radici di un tasso nel fondo di una oscura buca nel bosco. Una voce dalle fronde dell'albero mi parlò.
 
 "Ecco, se vorrai, il mio dono. Potrai curare gli altri, ma giura che userai ciò che ti insegnerò senza piegarlo a tuo vantaggio."
 
@@ -29,7 +29,7 @@ Un sigillo dorato fatto di cerchi concentrici con al centro un ramo di alloro si
 
 "Cogli le mie bacche, e preparale con attenzione".
 
-Dopo aver appreso la ricetta corsi senza fiato verso casa ripassando ogni indicazione imparata su cosa tenere, cosa scartare e come fare. Due giorni dopo il sole tornò a splendere in famiglia.
+Dopo aver appreso la ricetta corsi senza fiato verso casa ripassando ogni indicazione su cosa tenere, cosa scartare e come fare. Due giorni dopo il sole tornò a splendere in famiglia.
 
 Da allora fui l'alchimista.
 
