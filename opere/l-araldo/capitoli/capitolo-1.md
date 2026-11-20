@@ -47,19 +47,23 @@ Ed ecco che le mani tornano a bruciarmi come allora, eppure volevo solo che gli 
 
 ---
 
-"Terza Accusa: Tradimento. Hai ignorato e beffeggiato i nostri avvisi, così un giorno la terra tremò".
+"Terza Accusa: Tradimento. Hai beffeggiato i nostri avvisi, anche quando la terra tremò".
 
-Ricordo bene il terrore, la mia casa fu spezzata in due; non quella da contadino, oramai vivevo in un bel palazzo. Temetti per i miei figli, la terra si rivoltò contro di me. Capii subito cosa significava, ma solo per poco tempo. Il maggiore dei miei figli adorava una pecorella, ma il minore ne era invidioso e ne voleva una identica per lui. Così feci. Da quel giorno giocare con i tasti della natura fu facile, finché non venne lui. Bardarok si presentò da me infuriato, deciso a distruggere tutto. Riuscii a calmarlo quella volta solo promettendo che avrei fatto un passo indietro. Avevo superato il limite anche se solo per viziare la mia progenie. Quello era il suo ultimatum non potevo più infrangerlo.
+Ricordo bene il terrore, la mia casa fu spezzata in due; non quella da contadino, oramai vivevo in un bel palazzo. Temetti per i miei figli, la terra si rivoltò per la prima volta contro di me. Capii subito cosa significava, ma l'amore per la famiglia mi tentò lo stesso. Il maggiore adorava una pecorella bianca, ma il più piccolo ne era invidioso e ne voleva una identica per lui. Così feci. Da quel giorno giocare con i tasti della natura fu facile, finché non venne lui. Bardarok si presentò da me infuriato, deciso a distruggere tutto il lavoro che avevo fatto. Riuscii a calmarlo, quella volta, solo promettendo che avrei fatto un passo indietro. Avevo superato il limite anche se solo per viziare la mia progenie. Quello era il suo ultimatum non potevo più infrangerlo.
 
-Non passò molto tempo che successe ancora. Una vita felice era troppo poco per i miei figli così studiai rimedi per raddoppiare la loro vita.
-
----
-
-Scrivi qui il tuo capitolo.
-
-
+Se sono qui ora è per questo, infransi anche quest'ultimo avviso. Anni dopo, sempre preoccupandomi per i miei figli studiai un modo per allungare la loro felice vita così che potessero esserlo ancora più.
 
 ---
 
-Scrivi qui il tuo capitolo.
+"Alchimista, dovrai smettere di manipolare la natura stessa che ti ha donato il sapere di aiutare gli altri. Abbandona ogni via, dimentica e torna in contadino che eri. La Madre ti aveva scelto per il tuo cuore, era tempo che ti osservava. Torna l'uomo che eri, torna a lavorare la terra, torna ad accarezzare i fuori e l'erba... Ricordi queste parole?"
+
+Ogni suono che usciva da quel tronco putrescente era una lama di verità che si conficcava nel mio cuore. Tutto ciò che aveva appena detto era quello che mi ripetevo: torna il contadino di una volta, accarezza l'erba. Queste abilità mi inebriavano, sapevo di poter fare e dunque facevo.
+
+"Se non smetti subito verrò e mieterò con la mia falce i tuoi cari e te... ricordi anche queste?"
+
+Il fiato freddo della morte soffia alle mie orecchie gelando le mie vene, bloccando il mio cuore. E' qui per questo.
+
+---
+
+""
 
