@@ -25,11 +25,11 @@ Non potevo volere di più quel giorno.
 
 "Lo giuro!".
 
-Quel sigillo si illuminò ancora, poi disse.
+Un sigillo dorato fatto di cerchi concentrici con al centro un ramo di alloro si illuminò scaldandomi in quella buca.
 
 "Cogli le mie bacche, e preparale con attenzione".
 
-Corsi senza fiato a casa e cercai di ricordarmi ogni indicazione su cosa tenere, cosa scartare e come cosa fare. Due giorni dopo il sole tornò in casa mia.
+Dopo aver appreso la ricetta corsi senza fiato verso casa ripassando ogni indicazione imparata su cosa tenere, cosa scartare e come fare. Due giorni dopo il sole tornò a splendere in famiglia.
 
 Da allora fui l'alchimista.
 
