@@ -63,7 +63,15 @@ Ogni suono che usciva da quel tronco putrescente era una lama di verità che si 
 
 Il fiato freddo della morte soffia alle mie orecchie gelando le mie vene, il mio cuore perde qualche battito. È qui per questo.
 
+"Stolto, dovevi pensare all'eredità che avresti lasciato ai tuoi figli invece di soddisfare capricci infantili. Ora delle tue azioni renderai conto davanti a questa giuria."
+
+Piante putrescenti, frutti alterati e zolle di terra  inaridite compaiono ora alle spalle di Bardarok come sfocate immagini di un tempo passato, anime dannate che orlano vendetta e che sono venuti ad assistere all'esecuzione capitale.
+
+"Colpevole, sono colpevole di aver amato oltre ogni misura, colpevole di non essermi mai arreso ad ogni malattia o problema, colpevole di operare per gli altri"
+
 ---
 
-"sss"
+"Stolto, basta! Sei sì colpevole di non guardare più il là del tuo naso. Sei come un virus che infesta una creatura in equilibrio e bellezza ma che per proprio vizio riduce alla sfinimento. Questo è il tuo ultimo atto."
+
+Le radici di Bardarok si sollevano lungo il suolo smuovendo le zolle asfittiche di terreno, catturano la mia attenzione seguendo il loro tragitto puntano dirette verso casa mia, verso la mia famiglia. Radici bitorzolute si insinuano sotto le fondamenta e il pavimento del mio luogo più sacro dove ho coltivato il mio amore per tutti loro. Da lì vedo che avvolgono due figure, il terrore blocca il mio respiro, sono proprio loro. I miei figli avvinghiati tra quelle radici, radici della Madre terra che mi sorressero nel mio momento più buio ora erano venute a riscuotere i peccati che avevo commesso. Ecco che si avvicinano in fronte a me, ricado carponi dalla disperazione.
 
