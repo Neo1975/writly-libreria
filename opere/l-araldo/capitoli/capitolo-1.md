@@ -55,13 +55,13 @@ Se sono qui ora è per questo, infransi anche quest'ultimo avviso. Anni dopo, se
 
 ---
 
-"Alchimista, dovrai smettere di manipolare la natura stessa che ti ha donato il sapere di aiutare gli altri. Abbandona ogni via, dimentica e torna in contadino che eri. La Madre ti aveva scelto per il tuo cuore, era tempo che ti osservava. Torna l'uomo che eri, torna a lavorare la terra, torna ad accarezzare i fuori e l'erba... Ricordi queste parole?"
+"Alchimista, dovrai smettere di manipolare la natura stessa che ti ha donato il sapere di aiutare gli altri. Abbandona ogni via, dimentica e torna il contadino che eri. La Madre ti aveva scelto per il tuo cuore, era tempo che ti osservava. Torna l'uomo che eri, torna a lavorare la terra, torna ad accarezzare i fuori e l'erba... Ricordi queste parole?"
 
 Ogni suono che usciva da quel tronco putrescente era una lama di verità che si conficcava nel mio cuore. Tutto ciò che aveva appena detto era quello che mi ripetevo: torna il contadino di una volta, accarezza l'erba. Queste abilità mi inebriavano, sapevo di poter fare e dunque facevo.
 
 "Se non smetti subito verrò e mieterò con la mia falce i tuoi cari e te... ricordi anche queste?"
 
-Il fiato freddo della morte soffia alle mie orecchie gelando le mie vene, bloccando il mio cuore. E' qui per questo.
+Il fiato freddo della morte soffia alle mie orecchie gelando le mie vene, il mio cuore perde qualche battito. È qui per questo.
 
 ---
 
