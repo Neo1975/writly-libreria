@@ -73,9 +73,11 @@ Piante putrescenti, frutti alterati e zolle di terra  inaridite compaiono ora al
 
 "Stolto, basta! Sei sì colpevole di non guardare più il là del tuo naso. Sei come un virus che infesta una creatura in equilibrio e bellezza ma che per proprio vizio riduce alla sfinimento. Questo è il tuo ultimo atto."
 
-Le radici di Bardarok si sollevano lungo il suolo smuovendo le zolle asfittiche di terreno, catturano la mia attenzione seguendo il loro tragitto puntano dirette verso casa mia, verso la mia famiglia. Radici bitorzolute si insinuano sotto le fondamenta e il pavimento del mio luogo più sacro dove ho coltivato il mio amore per tutti loro. Da lì vedo che avvolgono due figure, il terrore blocca il mio respiro, sono proprio loro. I miei figli avvinghiati tra quelle radici, radici della Madre terra che mi sorressero nel mio momento più buio ora erano venute a riscuotere i peccati che avevo commesso. Ecco che si avvicinano in fronte a me, ricado carponi dalla disperazione.
+Le radici di Bardarok si sollevano lungo il suolo smuovendo le zolle asfittiche di terreno, catturano la mia attenzione seguendo il loro tragitto puntano dirette verso casa mia, verso la mia famiglia. Radici bitorzolute si insinuano sotto le fondamenta e il pavimento del mio luogo più sacro dove ho coltivato il mio amore per tutti loro. Da lì vedo che avvolgono due figure, il terrore blocca il mio respiro, sono proprio loro. I miei figli avvinghiati tra quelle radici, radici della Madre terra che mi sorressero nel mio momento più buio ora erano venute a riscuotere i peccati che avevo commesso. Ecco che si avvicinano in fronte a me, ricado carponi dalla disperazione. A pochi palmi dal mio viso Bardarok si insinua dentro di loro invadendo i polmoni, bloccando il respiro fermando ogni battito del cuore. Uno dopo l'altro la fiamma della vita si spegne. Ogni speranza si scioglie sotto le mie lacrime.
 
+"Le tue ultime parole, alchimista".
 
+Le radici adesso avvinghiavano il mio torace salendo sul collo e penetrandomi dalle narici. Ora toccava a me.
 
 "Terra alla terra, cenere alla cenere. Racconta di me a chi verrà... farà meglio."
 
