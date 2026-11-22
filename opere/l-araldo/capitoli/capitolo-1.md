@@ -15,17 +15,17 @@ La sua voce cavernosa proviene da una cavità putrescente scavata nel tempo dai 
 
 ---
 
-"Io sono il giudice! Prima accusa: hai infranto il sigillo."
+"Sono io, il giudice! Prima accusa: hai infranto il sigillo."
 
 Certo il sigillo, lo ricordo bene, lavoravo ancora come contadino presso i Meist. Al tempo queste mani accarezzavano i fiori e l'erba nei prati, ma un giorno i miei figli contrassero una malattia incurabile, secondo lo speziale. Disperato, tra le lacrime, corsi senza una meta finché l'oscurità non mi avvolse. Mi risvegliai sorretto dalle radici di un tasso nel fondo di un'oscura buca nel bosco. Una voce dalle fronde dell'albero mi parlò.
 
-"Ecco, se vorrai, il mio dono. Potrai curare gli altri, ma giura che userai ciò che ti insegnerò senza piegarlo a tuo vantaggio."
+"Ecco contadino, se vorrai, il mio dono. Potrai curare gli altri, ma giura che userai ciò che ti insegnerò senza piegarlo a tuo vantaggio."
 
 Non potevo volere di più quel giorno.
 
 "Lo giuro!"
 
-Un sigillo dorato fatto di cerchi concentrici con al centro un ramo di alloro si illuminò scaldandomi in quella buca.
+Un sigillo dorato fatto di cerchi concentrici con al centro un ramo di ulivo si illuminò scaldandomi in quella fredda e umida buca.
 
 "Cogli le mie bacche, e preparale con attenzione..."
 
