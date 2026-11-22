@@ -77,5 +77,7 @@ Le radici di Bardarok si sollevano lungo il suolo smuovendo le zolle asfittiche 
 
 
 
-Terra alla terra, cenere alla cenere. Racconta di me a chi verrà... farà meglio.
+"Terra alla terra, cenere alla cenere. Racconta di me a chi verrà... farà meglio."
+
+Nulla più.
 
