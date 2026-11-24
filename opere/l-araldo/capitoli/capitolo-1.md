@@ -55,7 +55,7 @@ Se sono qui ora è per questo, infransi anche quest'ultimo avviso. Anni dopo, se
 
 ---
 
-"Alchimista, dovrai smettere di manipolare la natura stessa che ti ha donato il sapere di aiutare gli altri. Abbandona ogni via, dimentica e torna il contadino che eri. La Madre ti aveva scelto per il tuo cuore, era tempo che ti osservava. Torna l'uomo che eri, torna a lavorare la terra, torna ad accarezzare i fuori e l'erba... Ricordi queste parole?"
+"Alchimista, dovrai smettere di manipolare la natura stessa che ti ha donato il sapere di aiutare gli altri. Abbandona ogni via, dimentica e torna il contadino che eri. La Madre ti aveva scelto per il tuo cuore, era da tempo che ti osservava. Torna l'uomo che eri, torna a lavorare la terra, torna ad accarezzare i fiori e l'erba... Ricordi queste parole?"
 
 Ogni suono che usciva da quel tronco putrescente era una lama di verità che si conficcava nel mio cuore. Tutto ciò che aveva appena detto era quello che mi ripetevo: torna il contadino di una volta, accarezza l'erba. Queste abilità mi inebriavano, sapevo di poter fare e dunque facevo.
 
@@ -65,15 +65,15 @@ Il fiato freddo della morte soffia alle mie orecchie gelando le mie vene, il mio
 
 "Stolto, dovevi pensare all'eredità che avresti lasciato ai tuoi figli invece di soddisfare capricci infantili. Ora delle tue azioni renderai conto davanti a questa giuria."
 
-Piante putrescenti, frutti alterati e zolle di terra  inaridite compaiono ora alle spalle di Bardarok come sfocate immagini di un tempo passato, anime dannate che orlano vendetta e che sono venuti ad assistere all'esecuzione capitale.
+Piante putrescenti, frutti alterati e zolle di terra inaridite compaiono ora alle spalle di Bardarok come sfocate immagini di un tempo passato, anime dannate che urlano vendetta e che sono venuti ad assistere all'esecuzione capitale.
 
 "Colpevole, sono colpevole di aver amato oltre ogni misura, colpevole di non essermi mai arreso ad ogni malattia o problema, colpevole di operare per gli altri"
 
 ---
 
-"Stolto, basta! Sei sì colpevole di non guardare più il là del tuo naso. Sei come un virus che infesta una creatura in equilibrio e bellezza ma che per proprio vizio riduce alla sfinimento. Questo è il tuo ultimo atto."
+"Stolto, basta! Sei sì colpevole di non guardare più al di là del tuo naso. Sei come un virus che infesta una creatura in equilibrio e bellezza ma che per proprio vizio riduce allo sfinimento. Questo è il tuo ultimo atto."
 
-Le radici di Bardarok si sollevano lungo il suolo smuovendo le zolle asfittiche di terreno, catturano la mia attenzione seguendo il loro tragitto puntano dirette verso casa mia, verso la mia famiglia. Radici bitorzolute si insinuano sotto le fondamenta e il pavimento del mio luogo più sacro dove ho coltivato il mio amore per tutti loro. Da lì vedo che avvolgono due figure, il terrore blocca il mio respiro, sono proprio loro. I miei figli avvinghiati tra quelle radici, radici della Madre terra che mi sorressero nel mio momento più buio ora erano venute a riscuotere i peccati che avevo commesso. Ecco che si avvicinano in fronte a me, ricado carponi dalla disperazione. A pochi palmi dal mio viso Bardarok si insinua dentro di loro invadendo i polmoni, bloccando il respiro fermando ogni battito del cuore. Uno dopo l'altro la fiamma della vita si spegne. Ogni speranza si scioglie sotto le mie lacrime.
+Le radici di Bardarok si sollevano lungo il suolo smuovendo le zolle asfittiche di terreno, catturano la mia attenzione seguendo il loro tragitto puntano dirette verso casa mia, verso la mia famiglia. Radici bitorzolute si insinuano sotto le fondamenta e il pavimento del mio luogo più sacro dove ho coltivato il mio amore per tutti loro. Da lì vedo che avvolgono due figure, il terrore blocca il mio respiro, sono proprio loro. I miei figli avvinghiati tra quelle radici, radici della Madre terra che mi sorressero nel mio momento più buio ora erano venute a riscuotere i peccati che avevo commesso. Ecco che si avvicinano di fronte a me, ricado carponi dalla disperazione. A pochi palmi dal mio viso Bardarok si insinua dentro di loro invadendo i polmoni, bloccando il respiro fermando ogni battito del cuore. Uno dopo l'altro la fiamma della vita si spegne. Ogni speranza si scioglie sotto le mie lacrime.
 
 "Le tue ultime parole, alchimista".
 
