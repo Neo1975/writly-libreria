@@ -28,7 +28,8 @@ Cosa è cambiato quando esce? Qual è la cosa peggiore che potrebbe succedere
 qui? E la più sorprendente che resti coerente?
 
 Per un personaggio: cosa vuole e cosa gli serve davvero (non è la stessa
-cosa)? Qual è la bugia in cui crede? Cosa non direbbe mai ad alta voce? Come
+cosa)? Davanti a un pericolo, prima pensa, sente o agisce (testa, cuore,
+pancia)? Quale dei tre non usa mai, e cosa succederebbe se fosse costretto? Qual è la bugia in cui crede? Cosa non direbbe mai ad alta voce? Come
 reagisce quando ha paura? Cosa perde se cambia?
 
 Per tema e premessa (se in `opera.yaml` mancano o l'autore non ne è

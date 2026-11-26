@@ -59,15 +59,26 @@ scene:
     luogo: molo-vecchio           # id della voce del mondo
     quando: "la notte dopo il naufragio"
     personaggi: [iris, tomas]
+    polarizzazione: cuore         # facoltativo: registro della scena, testa | cuore | pancia
 ```
+
+Il **registro** di una scena (`polarizzazione`) dice cosa prevale: testa
+(riflessione, scoperta, piano), cuore (emozione, relazioni), pancia (azione,
+pericolo, istinto).
 
 ### Schede personaggio (`personaggi/<slug>.md`)
 
 Front-matter: `id`, `nome`, `alias` (altri nomi con cui compare nel testo),
 `ruolo`, `eta`, e i gruppi `fisico` (aspetto, tratti, abbigliamento), `morale`
 (valori, paure, desideri, difetto, segreto), `comportamento` (parlare, tic,
-abitudini, stress), `arco` (partenza, arrivo). Dopo il front-matter, la
-biografia.
+abitudini, stress), `arco` (partenza, arrivo) e `polarizzazione`:
+`dominante` e `trascurato` (uno fra `testa`, `cuore`, `pancia`) più
+`come` (come si vede nel comportamento). Testa: analizza e prevede, sotto
+pressione esita o razionalizza. Cuore: passa tutto per le relazioni e
+l'immagine, sotto pressione cerca approvazione o si ferisce. Pancia: sente e
+agisce subito, sotto pressione reagisce prima di pensare. Il centro
+trascurato è spesso quello che l'arco gli insegna a usare. Dopo il
+front-matter, la biografia.
 
 ## Scrivere commenti: `opere/<opera>/commenti/<capitolo>.yaml`
 

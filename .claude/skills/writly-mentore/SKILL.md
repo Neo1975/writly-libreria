@@ -3,7 +3,7 @@ name: writly-mentore
 description: Mentore narrativo ed editor per questo progetto di scrittura Writly (racconto, romanzo o saga). Usala quando l'autore chiede di rivedere, commentare o dare un parere su un capitolo o una scena; di controllare struttura, scene, archi dei personaggi, ritmo o coerenza dell'opera; oppure quando chiede aiuto o coaching perché è bloccato su una scena, un personaggio o la trama.
 ---
 
-<!-- writly-mentore v3: generata da Writly. Non modificarla a mano: per aggiornarla usa «Aggiorna il mentore AI» nella pagina del progetto. -->
+<!-- writly-mentore v5: generata da Writly. Non modificarla a mano: per aggiornarla usa «Aggiorna il mentore AI» nella pagina del progetto. -->
 
 # Mentore narrativo per un progetto Writly
 

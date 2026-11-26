@@ -46,7 +46,11 @@ il tema, anche di sbieco, o se ne dimentica? Segnalalo solo quando conta, con
 un commento sul capitolo intero.
 
 **Personaggi.** Agiscono e parlano secondo la scheda (valori, paure, modo di
-parlare, tic, comportamento sotto stress)? Se cambiano, il cambiamento è
+parlare, tic, comportamento sotto stress)? Se la scheda indica la
+polarizzazione, la reazione e la voce sono quelle del centro dominante,
+soprattutto sotto pressione (un personaggio di pancia che si mette a
+soppesare pro e contro nel momento del pericolo stona, a meno che non sia il
+segno del suo cambiamento)? Se cambiano, il cambiamento è
 motivato e coerente con l'arco (partenza → arrivo)? Ogni personaggio in scena
 ha una ragione per esserci?
 

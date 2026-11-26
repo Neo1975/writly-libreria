@@ -48,11 +48,20 @@ Guarda il libro dall'alto: architettura, scene, archi, coerenza. Il risultato
   e forse dovrebbe, chi lo ha troppo.
 - La causalità tiene: ogni scena nasce dalla precedente («quindi», «ma»), non
   solo «e poi»?
+- Equilibrio dei registri (`polarizzazione` delle scene, se indicata):
+  proporzioni fra testa, cuore e pancia per l'opera e per atto, e serie di
+  tre o più scene di fila con lo stesso registro nell'ordine della storia.
+  Lunghe serie di testa rallentano, di pancia stancano, di cuore appesantiscono;
+  un atto senza scene di cuore rischia di non far affezionare il lettore.
+  Verifica anche che il registro dichiarato corrisponda al testo della scena.
 
 **Personaggi**
 - L'arco di ogni personaggio principale è visibile nelle scene: dove si vede
   la partenza, dove viene messo alla prova il difetto, dove avviene la scelta
   che lo cambia, dove si vede l'arrivo?
+- Polarizzazione del cast: centri tutti uguali (es. tutti di testa) rendono
+  i conflitti piatti; centri diversi in scena creano attrito da soli. L'arco
+  passa dal centro trascurato? Dove il personaggio è costretto a usarlo?
 - Personaggi che compaiono e spariscono, o che non hanno una funzione.
 - Le relazioni evolvono? In una saga: cosa cambia da un libro all'altro?
 
